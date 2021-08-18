@@ -1,0 +1,2 @@
+rootProject.name = "PAWSOME"
+include ':app'
